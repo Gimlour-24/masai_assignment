@@ -2,19 +2,6 @@
 
 This repository contains python based interactive Tic-Tac-Toe game.
 
-## Running Tic-Tac-Toe:
-
-
-<p align="center">
-<img src="/images/preview.gif">
-</p>
-
-## Screenshots
-<p align="center">
-<img width=1000 src="/images/screenshot.png">
-
-</p>
-
 ## Controls
 1. Player X starts the game
 2. Click on each grid to place symbol
